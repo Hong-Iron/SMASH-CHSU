@@ -1,0 +1,64 @@
+{
+  "code": "CHSU",
+  "title": "SMASH CHSU",
+  "school": "충북보건과학대",
+  "fullName": "충북보건과학대학교",
+  "campusName": "충북보건과학대학교",
+  "tagline": "충북보건과학대를 부셔 (시험기간 스트레스 해소)",
+  "description": "충북보건과학대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 충북보건과학대학교 3D 화면과 SMASH CHSU 제목",
+  "url": "https://hong-iron.github.io/SMASH-CHSU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 443362138
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/474344372",
+      "n": "",
+      "why": "항공사진에 없음 — 북동쪽 창고 마당 옆 숲 땅(세교리 산19 임야)인데, 사진에는 흙 마당과 천막, 작은 통 하나만 보이고 건물 지붕은 없다."
+    },
+    {
+      "at": [
+        36.699727,
+        127.5485044
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 건물대장 기록은 대지 342㎡짜리 다른 땅에 선 5층 상가(근린생활시설)이고, 정문 옆 그 자리 사진에는 잔디 위 네모난 철골 틀만 있어 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        36.7047421,
+        127.5537276
+      ],
+      "n": "사무실",
+      "why": "항공사진에 없음 — 운동장 북쪽 끝 숲 가장자리라 중심이 캠퍼스 경계 밖이고, 사진에는 나무와 흙 비탈만 보여 2층 사무실이 없다."
+    },
+    {
+      "at": [
+        36.699438,
+        127.5537784
+      ],
+      "n": "화장실",
+      "why": "항공사진에 없음 — 창업보육센터 마당 남쪽 숲 땅(덕암리 산4 임야)인데, 1995년 건물대장에 오른 화장실 자리가 사진에는 나무 그늘뿐이다."
+    }
+  ],
+  "look": {
+    "기숙사동": {
+      "style": "brick",
+      "wall": "#cc9a74",
+      "glass": "#2f3d3a",
+      "frame": "#e2dac8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
